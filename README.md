@@ -44,7 +44,8 @@ The dataset contains order-level sales data including:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard-preview.png)
+<img width="1829" height="877" alt="Amazon Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/f5994b98-1052-48bb-8fbe-d8602836a4e1" />
+
 
 ---
 
@@ -66,5 +67,5 @@ This dashboard demonstrates how Excel can be used to transform raw data into mea
 
 ## 📁 Files
 
-- Excel Dashboard (.xlsx)  
-- Dashboard Preview Image (.png)
+- Amazon Sales Analysis (.xlsx)  
+- Amazon Sales Analysis Dashboard (.png)
